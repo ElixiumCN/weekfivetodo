@@ -12,7 +12,7 @@ function App() {
   return (
     <div className="App">
       <header>
-        <h1>ElixiumCN Todo List</h1>
+        <h1>What do you want to do today?</h1>
       </header>
       <Form 
         inputText={inputText} todos={todos} setTodos={setTodos} setInputText={setInputText} />
